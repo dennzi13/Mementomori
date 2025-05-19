@@ -1,0 +1,8 @@
+type,balloon
+name,短冊
+accept,乳尾盛芭蕉
+directory,B_tanzaku
+refresh,1
+script,\h\s[0]「%lastobjectname」\n\nのインストールが無事に終了しました。\e
+
+

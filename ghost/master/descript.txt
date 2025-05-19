@@ -1,0 +1,12 @@
+charset,Shift_JIS
+type,ghost
+
+name,‚±‚±‚Åˆê‹å
+craftmanw,“d¥
+craftmanurl,http://denmemo31.blog.fc2.com/
+sakura.name,“û”ö·”mÔ
+kero.name,
+
+
+
+shiori,satori.dll

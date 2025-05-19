@@ -1,0 +1,6 @@
+charset,Shift_JIS
+type,ghost
+
+name,‚±‚±‚Åˆê‹å
+directory,Mementomori
+balloon.directory,B_tanzaku
