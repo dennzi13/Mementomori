@@ -31,6 +31,7 @@ file,ghost/master/satori_conf.txted4a5b3361d3e6c918790adb335cafddsize=115date
 file,ghost/master/satori_license.txt078ffc36f3374648bf523ae197f4765csize=944date=2025-03-02T00:00:00
 file,shell/master/descript.txt23df08f4266818dcd08b78837f11bd9csize=100date=2025-05-19T18:14:48
 file,shell/master/readme.txtd41d8cd98f00b204e9800998ecf8427esize=0date=2025-05-02T00:03:01
+file,shell/master/surface0.apng5c39a3e5c3f3c24579847d05ab8c31b8size=58691date=2025-05-19T21:16:13
 file,shell/master/surface10.pngbb12cba0adb2c079e733e4c8a57c3aaasize=70date=2015-08-02T20:45:48
 file,shell/master/surface1000.png1269e28b90d81612bbbff3f67d7660desize=56430date=2025-04-26T18:51:36
 file,shell/master/surface1010.png61867ea09e63519ca3659a45b40749cfsize=1443date=2025-04-26T18:50:30
